@@ -195,7 +195,7 @@ https://t4sneem-shah66.github.io/practise2/
   </script>
   <noscript>Your browser does not support JavaScript!</noscript><br><br>
 
-  <button onclick="DisplayContent()">Click Here</button>
+  <button onclick="DisplayContent()">Click and Scroll Down</button>
   <template>
     <img src="img_orange_flowers.jpg" alt="Flowers">
   </template>
